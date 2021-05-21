@@ -11,3 +11,11 @@ Data about Toronto's venues, neighborhood, latitudes, longitudes and category of
 ## Target Audience
 
 The person who is planning to open up a restaurant mostly targets the daily workers in that particular area. Target audience is employers who go out to work most days and they must find the restaurant pristine and satisfy their needs. The public, if finds the restaurant more awesome and likes what they offer, will spend a lot of time in this place and try various dishes offered by the restaurant.
+
+## Methodology
+
+## Inference
+
+## Result
+
+## Conclusion
