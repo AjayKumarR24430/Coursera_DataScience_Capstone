@@ -1,4 +1,4 @@
-# Coursera_DataScience_Capstone
+# Data_Science_Capstone
 
 ## Notebook Link to the Data Science Specialization Capstone Project
 
