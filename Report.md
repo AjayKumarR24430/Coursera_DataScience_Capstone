@@ -19,5 +19,6 @@ After pre-processing the data and seeing the first few values,  the venues are g
 After looking up the pattern, if the shop owner opens up in a place where the population and income is more and the category he/she is willing to sell is not been visited by the people, the shop will prosper and more profits will be earned. A shop keeper can also open up the shop in a place where there are existing restaurants and people are already loving to go there. But the profit might not be as expected and it will take for the shop to surge and get a reasonable crowd regularly.
 
 ## Result
+A profitbable restaurant can be obtained by analysing certain aspects and neighborhood statistics most importantly. After careful consideration with the data and visualizations, and with the reports of a data scientist, a person can come up with a restaurant and it will become a profitable business in short amount of time.
 
 ## Conclusion
