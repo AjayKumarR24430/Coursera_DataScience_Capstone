@@ -16,6 +16,7 @@ The person who is planning to open up a restaurant mostly targets the daily work
 After pre-processing the data and seeing the first few values,  the venues are grouped by the neighborhood. One hot encoding is done and the grouped data is seen with respect to the venues. Neighborhood with each common venue is calculated for the person's convenience so that he/she can predict what are the shops and centres that are already there and thus must plan accordingly. This is shown in a table for each of the common venues across all neighborhoods in toronto. The next stage is calculating 10 most number of venues in a table. For eg, for neighborhood Agincourt, there will be 10 most common venues according to the frequencies of their presence in that particular area. These neighborhoods are clustered based on the common venues and the share of the shops. The person who is willing to put up a restaurant will see these parameters of nearby frequently occuring shops and the category of those shops.
 
 ## Inference
+After looking up the pattern, if the shop owner opens up in a place where the population and income is more and the category he/she is willing to sell is not been visited by the people, the shop will prosper and more profits will be earned. A shop keeper can also open up the shop in a place where there are existing restaurants and people are already loving to go there. But the profit might not be as expected and it will take for the shop to surge and get a reasonable crowd regularly.
 
 ## Result
 
